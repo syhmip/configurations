@@ -1,0 +1,13 @@
+key_bindings:
+  - { key: V,        mods: Alt,                     action: Paste            }
+  - { key: C,        mods: Alt,                     action: Copy             }
+  - { key: F,        mods: Alt,                     action: SearchForward    }
+  - { key: B,        mods: Alt,                     action: SearchBackward   }
+  - { key: C,        mods: Alt,                     action: ClearSelection   }
+  - { key: Insert,   mods: Shift,                   action: None             }
+  - { key: Key0,     mods: Control,                 action: ResetFontSize    }
+  - { key: Equals,   mods: Control,                 action: IncreaseFontSize }
+  - { key: Add,      mods: Control,                 action: IncreaseFontSize }
+  - { key: Subtract, mods: Control,                 action: DecreaseFontSize }
+  - { key: Minus,    mods: Control,                 action: DecreaseFontSize }
+  - { key: Return,   mods: Alt,                     action: ToggleFullscreen }

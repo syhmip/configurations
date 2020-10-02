@@ -1,0 +1,5 @@
+cursor:
+  style: Beam
+  vi_mode_style: None
+  unfocused_hollow: true
+  thickness: 1

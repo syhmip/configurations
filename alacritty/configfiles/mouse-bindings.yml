@@ -1,0 +1,4 @@
+mouse_bindings:
+  - { mouse: Left,   action: None}
+  - { mouse: Middle, action: None}
+  - { mouse: Right,  action: None}
