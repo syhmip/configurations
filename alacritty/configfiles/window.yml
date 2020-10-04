@@ -1,7 +1,9 @@
+
+### Window
 window:
   dimensions:
-    columns: 90
-    lines: 30
+    columns: 120
+    lines: 45
   padding:
     x: 25
     y: 30

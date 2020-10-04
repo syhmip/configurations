@@ -1,3 +1,5 @@
+
+### key bindings settings
 key_bindings:
   - { key: K,      mods: Command, mode: ~Vi, chars: "\x0c"            }
   - { key: Key0,   mods: Command,            action: ResetFontSize    }
