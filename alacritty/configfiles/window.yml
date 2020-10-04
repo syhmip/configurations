@@ -3,7 +3,7 @@ window:
     columns: 90
     lines: 30
   padding:
-    x: 10
-    y: 15
+    x: 25
+    y: 30
   dynamic_padding: true
   dynamic_title: true

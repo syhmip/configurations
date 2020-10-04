@@ -1,2 +1,4 @@
 shell:
-  program: /Usr/bin/zsh
+  program: /bin/zsh
+  args:
+    - --login
